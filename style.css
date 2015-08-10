@@ -1,0 +1,27 @@
+h1 {
+	color: indianred;
+    font-size: 50px;
+	font-family: arial;
+    text-align: center;
+    padding: 10px
+    margin: 10px
+    }
+body{
+   border: 15px solid indianred;
+}
+img {
+    height: auto
+    max-width: 
+}
+a {
+   color: green;
+}
+#parent-div{
+ 	float: left;
+}
+#picture-div{
+    float: left;
+}
+#link-div{
+    float: left;
+{
